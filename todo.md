@@ -1,0 +1,12 @@
+# Plan Of Action
+- Cretae a wireframe DONE
+-setup base HTMl structure  DONE
+-Import google maps into the window DONE
+- add text store slector
+- add input box
+-add store list container
+- add individual store container
+-style thw iindividual store item in the stores list
+-show all the stores in the stores list based on real world dtaat
+-show the info window when you click on th individual stor
+-add beautifu transitions
